@@ -2,8 +2,8 @@
 
 This repository contains the material of Alzahra university interdisciplinary Python workshop.
 
-![](posterSI.jpg =100x50)
-![](posterSII.jpg =100x50)
+<img src="posterSI.jpg" alt="posterSI" width="200"/>
+<img src="posterSII.jpg" alt="posterSII" width="200"/>
 
 ### The requirements
 
