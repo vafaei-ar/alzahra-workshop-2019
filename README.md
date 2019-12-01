@@ -3,8 +3,8 @@
 This repository contains the material of Alzahra university interdisciplinary Python workshop.
 
 <p float="center">
-    <img src="posterSI.jpg" alt="posterSI" width="200"/>
-    <img src="posterSII.jpg" alt="posterSII" width="200"/>
+    <img src="posterSI.jpg" alt="posterSI" width="400"/>
+    <img src="posterSII.jpg" alt="posterSII" width="400"/>
 </p>
 
 ### The requirements
